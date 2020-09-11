@@ -19,8 +19,8 @@ Odoo Partnership Agreement
 |  Odoo S.A., having its registered office at Chaussée de Namur, 40, 1367 Grand-Rosière,
 |  Belgium, and its affiliates (collectively referred to as “ODOO”)
 | AND:
-|  _____________________________________________, a company having its registered office at
-|  _____________________________________________________________________________________.
+|  PIT Solutions Pvt. Ltd, a company having its registered office at
+|  L7 L8, BASEMENT FOOR, THEJASWINI,TECHNO PARK CAMPUS, KARIYAVATTOM, Thiruvananthapuram 695581, Kerala KL, India.
 |  (hereinafter referred to as “PARTNER”)
 
 ODOO and PARTNER are individually referred to as a "Party" and collectively referred to as
@@ -98,7 +98,7 @@ The table below summarizes the requirements that have to be met for each partner
 +--------------------------------------------+------------------+--------------------+--------------------+--------------------+
 |                                            | Learning Partner | Official: Ready    | Official: Silver   | Official: Gold     |
 +============================================+==================+====================+====================+====================+
-| Annual New Odoo Enterprise Users Sold      |   0              |  10                | 50                 | 150                |
+| Annual New Odoo Enterprise Users Sold      |   0              |  0                 | 50                 | 150                |
 +--------------------------------------------+------------------+--------------------+--------------------+--------------------+
 | Number of Certified Employees on at least  |   0              |  1                 |  2                 |  3                 |
 | one of the 3 last Odoo versions            |                  |                    |                    |                    |
